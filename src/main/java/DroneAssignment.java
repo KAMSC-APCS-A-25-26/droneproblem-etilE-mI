@@ -1,7 +1,7 @@
 // DO NOT CHANGE THE CLASS NAME, IT WILL BREAK THE AUTO GRADER
 public class DroneAssignment {
     public static void main(String[] args) {
-        
+
         // Initial drone values
         double altitude = 150.7;
         double battery = 87.3;
