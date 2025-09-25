@@ -43,5 +43,6 @@ public class DroneAssignment {
 
         photos %= 4;
         System.out.println("Storage slots used: " + photos + " out of 4");
+        System.out.println("Photos: " + photos);
     }
 }
